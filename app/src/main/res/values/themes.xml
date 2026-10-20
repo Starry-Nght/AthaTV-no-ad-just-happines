@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.AthaTV" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_ambient_gradient</item>
+        <item name="android:statusBarColor">@color/bg_black</item>
+        <item name="android:navigationBarColor">@color/bg_black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorPrimary">@color/accent_violet</item>
+        <item name="colorSecondary">@color/accent_cyan</item>
+    </style>
+
+    <style name="Theme.AthaTV" parent="Base.Theme.AthaTV" />
+
+    <style name="DialogTheme" parent="Theme.MaterialComponents.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

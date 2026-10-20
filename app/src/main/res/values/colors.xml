@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background & Gradients -->
+    <color name="bg_dark_purple">#160F28</color>
+    <color name="bg_midnight_blue">#0D1127</color>
+    <color name="bg_black">#07070D</color>
+    <color name="bg_surface">#18162A</color>
+    <color name="bg_card">#201C38</color>
+    <color name="bg_card_focused">#3B2E68</color>
+    <color name="bg_card_stroke">#26FFFFFF</color>
+    <color name="bg_card_stroke_focused">#99B388FF</color>
+    
+    <!-- Accent & Highlights -->
+    <color name="accent_violet">#B18DFF</color>
+    <color name="accent_cyan">#4DEEEA</color>
+    <color name="accent_purple_glow">#40A855F7</color>
+    
+    <!-- Typography & Overlays -->
+    <color name="text_white">#F7F7FA</color>
+    <color name="text_muted">#8E8BA7</color>
+    <color name="text_hint">#5E5B75</color>
+    <color name="text_badge">#C8C2EA</color>
+
+    <color name="pill_bg">#231F3D</color>
+    <color name="pill_bg_focused">#6C4FBB</color>
+    <color name="pill_stroke">#33A899E6</color>
+    <color name="pill_stroke_focused">#CCA389F4</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
